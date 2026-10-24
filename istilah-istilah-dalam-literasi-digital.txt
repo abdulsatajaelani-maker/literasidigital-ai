@@ -1,1 +1,411 @@
+60 Istilah Literasi Digital dalam Penulisan Buku, Jurnal Ilmiah, dan Publikasi Digital
 
+Pendahuluan
+
+Perkembangan teknologi digital telah membawa perubahan besar dalam dunia penulisan dan penerbitan. Saat ini, buku tidak hanya diterbitkan dalam bentuk cetak, tetapi juga tersedia sebagai buku elektronik atau e-book. Demikian pula, jurnal ilmiah dapat diakses melalui berbagai platform digital yang memudahkan mahasiswa, dosen, dan peneliti memperoleh informasi akademik.
+
+Dalam proses tersebut, literasi digital menjadi keterampilan yang penting. Literasi digital mencakup kemampuan menggunakan teknologi, mencari informasi, mengevaluasi sumber, mengelola referensi, menghasilkan konten, dan menyebarkan informasi secara bertanggung jawab.
+
+Kecerdasan buatan atau Artificial Intelligence (AI) juga memberikan peluang baru dalam penulisan. AI dapat membantu menyusun kerangka, memperbaiki bahasa, dan mengembangkan ide. Namun, penggunaannya harus disertai pemeriksaan fakta, penghormatan terhadap hak cipta, dan integritas akademik.
+
+Artikel ini membahas 60 istilah penting yang berkaitan dengan penulisan buku, jurnal ilmiah, dan publikasi digital.
+
+A. Istilah Literasi Digital dan Penulisan
+
+1. Literasi Digital
+
+Kemampuan menggunakan teknologi digital untuk mengakses, memahami, mengevaluasi, membuat, dan menyebarkan informasi secara bijak.
+
+Contoh: Mahasiswa menggunakan sumber daring yang tepercaya untuk menyusun buku pembelajaran.
+
+2. Literasi Informasi (Information Literacy)
+
+Kemampuan mengenali kebutuhan informasi, menemukan sumber yang relevan, menilai kualitasnya, dan menggunakan informasi secara tepat.
+
+Contoh: Peneliti membandingkan beberapa artikel sebelum menyusun tinjauan pustaka.
+
+3. Konten Digital (Digital Content)
+
+Informasi atau karya yang disajikan dalam format digital, seperti teks, gambar, video, audio, dan dokumen elektronik.
+
+Contoh: Artikel blog, e-book, dan jurnal elektronik.
+
+4. Penulisan Digital (Digital Writing)
+
+Proses membuat dan menyunting tulisan menggunakan perangkat serta platform digital.
+
+Contoh: Menulis artikel menggunakan Google Docs.
+
+5. Manuskrip (Manuscript)
+
+Naskah yang disiapkan untuk dinilai, disunting, atau diterbitkan.
+
+Contoh: Naskah buku yang diajukan kepada penerbit.
+
+6. Draft
+
+Versi awal tulisan yang masih dapat dikembangkan dan diperbaiki.
+
+Contoh: Penulis membuat draft pendahuluan sebelum menyelesaikan seluruh bab.
+
+7. Outline
+
+Kerangka yang menggambarkan susunan bab, subbab, dan pokok pembahasan tulisan.
+
+Contoh: Penulis menyusun outline enam bab sebelum mulai menulis buku.
+
+8. Kolaborasi Digital (Digital Collaboration)
+
+Kerja sama menggunakan teknologi digital untuk menulis, mengedit, atau mengelola dokumen bersama.
+
+Contoh: Dua mahasiswa menyusun artikel bersama melalui Google Docs.
+
+B. Istilah Penulisan dan Penerbitan Buku
+
+9. Penerbit (Publisher)
+
+Lembaga atau perusahaan yang mengelola proses penerbitan karya, termasuk penyuntingan, produksi, dan distribusi.
+
+Contoh: Penerbit mengelola proses penerbitan buku tentang bisnis digital.
+
+10. ISBN (International Standard Book Number)
+
+Nomor identifikasi standar internasional untuk mengidentifikasi edisi atau format tertentu dari buku yang diterbitkan.
+
+Contoh: Buku yang diterbitkan memperoleh ISBN sesuai ketentuan yang berlaku.
+
+11. E-book (Electronic Book)
+
+Buku dalam format elektronik yang dapat dibaca melalui komputer, tablet, atau telepon pintar.
+
+Contoh: Buku panduan literasi digital dalam format EPUB atau PDF.
+
+12. Self-Publishing
+
+Proses menerbitkan buku secara mandiri oleh penulis, baik dengan mengerjakan sendiri maupun menggunakan jasa profesional.
+
+Contoh: Penulis membuat dan memasarkan e-book melalui platform penerbitan digital.
+
+13. Editing
+
+Proses memperbaiki isi, struktur, alur, dan kejelasan tulisan.
+
+Contoh: Menghapus paragraf berulang agar isi buku lebih efektif.
+
+14. Copyediting
+
+Penyuntingan yang berfokus pada tata bahasa, ejaan, konsistensi istilah, dan gaya penulisan.
+
+Contoh: Menyeragamkan penggunaan istilah AI di seluruh bab.
+
+15. Proofreading
+
+Pemeriksaan akhir untuk menemukan kesalahan ejaan, tanda baca, dan pengetikan.
+
+Contoh: Memeriksa naskah sebelum buku dicetak atau diterbitkan secara digital.
+
+16. Layout
+
+Pengaturan posisi teks, gambar, tabel, judul, dan nomor halaman.
+
+Contoh: Menata isi buku agar mudah dibaca dalam bentuk cetak maupun digital.
+
+17. Tipografi
+
+Pemilihan dan pengaturan jenis huruf, ukuran, ketebalan, dan jarak untuk meningkatkan keterbacaan.
+
+Contoh: Menggunakan jenis huruf yang konsisten pada isi buku.
+
+18. Cover Design
+
+Proses merancang tampilan sampul buku agar sesuai dengan isi dan sasaran pembaca.
+
+Contoh: Membuat sampul buku literasi digital dengan ilustrasi teknologi AI.
+
+19. Royalti (Royalty)
+
+Pembayaran kepada pemegang hak berdasarkan penggunaan atau penjualan karya sesuai perjanjian.
+
+Contoh: Penulis menerima royalti dari penjualan buku berdasarkan kesepakatan dengan penerbit.
+
+20. Hak Cipta (Copyright)
+
+Hak hukum yang melindungi karya dan kepentingan penciptanya sesuai peraturan yang berlaku.
+
+Contoh: Penulis memeriksa izin penggunaan gambar sebelum memasukkannya ke dalam buku.
+
+C. Istilah Penulisan Jurnal Ilmiah
+
+21. Jurnal Ilmiah (Scientific Journal)
+
+Publikasi berkala yang memuat artikel ilmiah sesuai bidang dan ruang lingkup tertentu.
+
+Contoh: Jurnal yang menerbitkan penelitian tentang literasi digital mahasiswa.
+
+22. Artikel Ilmiah (Scientific Article)
+
+Tulisan akademik yang menyajikan hasil penelitian, analisis, atau kajian ilmiah secara sistematis.
+
+Contoh: Artikel mengenai pemanfaatan AI dalam pembelajaran.
+
+23. Abstrak (Abstract)
+
+Ringkasan artikel yang biasanya mencakup tujuan, metode, hasil, dan kesimpulan penelitian.
+
+Contoh: Abstrak yang merangkum penelitian tentang penggunaan AI oleh mahasiswa.
+
+24. Kata Kunci (Keywords)
+
+Kata atau frasa yang mewakili topik utama artikel dan membantu pencarian informasi.
+
+Contoh: Literasi digital, AI, pembelajaran, dan mahasiswa.
+
+25. Pendahuluan (Introduction)
+
+Bagian artikel yang menjelaskan latar belakang, masalah, tujuan, dan pentingnya penelitian.
+
+Contoh: Penulis menjelaskan alasan penggunaan AI dalam pembelajaran perlu diteliti.
+
+26. Tinjauan Pustaka (Literature Review)
+
+Pembahasan teori dan penelitian terdahulu yang relevan dengan topik penelitian.
+
+Contoh: Membandingkan beberapa penelitian tentang AI dalam pendidikan.
+
+27. Metodologi Penelitian (Research Methodology)
+
+Penjelasan tentang pendekatan, desain, pengumpulan data, dan metode analisis penelitian.
+
+Contoh: Peneliti menggunakan survei untuk mengumpulkan data dari mahasiswa.
+
+28. Hasil Penelitian (Results)
+
+Bagian yang menyajikan temuan berdasarkan data yang dikumpulkan dan dianalisis.
+
+Contoh: Menampilkan hasil survei dalam bentuk tabel.
+
+29. Pembahasan (Discussion)
+
+Bagian yang menjelaskan makna temuan dan menghubungkannya dengan teori atau penelitian terdahulu.
+
+Contoh: Menganalisis alasan hasil penelitian berbeda dari penelitian sebelumnya.
+
+30. Kesimpulan (Conclusion)
+
+Bagian yang merangkum jawaban terhadap tujuan atau pertanyaan penelitian berdasarkan hasil yang diperoleh.
+
+Contoh: Menyimpulkan temuan mengenai pemanfaatan AI dalam pembelajaran.
+
+D. Istilah Referensi dan Pengelolaan Informasi
+
+31. Sitasi (Citation)
+
+Penyebutan sumber yang digunakan untuk mendukung pernyataan, teori, atau gagasan dalam tulisan.
+
+Contoh: Menyebutkan nama penulis dan tahun publikasi ketika mengutip teori.
+
+32. Daftar Pustaka (References)
+
+Daftar sumber yang benar-benar dirujuk dalam tulisan, disusun sesuai gaya sitasi yang digunakan.
+
+Contoh: Mencantumkan informasi buku dan artikel yang dikutip dalam jurnal.
+
+33. APA Style
+
+Gaya penulisan dan sitasi yang dikembangkan oleh American Psychological Association.
+
+Contoh: Menggunakan format APA edisi ketujuh sesuai pedoman tugas atau jurnal.
+
+34. Mendeley
+
+Perangkat lunak pengelolaan referensi untuk menyimpan sumber dan membantu membuat sitasi serta daftar pustaka.
+
+Contoh: Mahasiswa menggunakan Mendeley untuk mengatur referensi artikel ilmiah.
+
+35. Zotero
+
+Perangkat pengelolaan referensi untuk mengumpulkan, mengatur, dan menyitir sumber akademik.
+
+Contoh: Peneliti menyimpan referensi dari berbagai situs jurnal dalam satu perpustakaan digital.
+
+36. Google Scholar
+
+Layanan pencarian literatur akademik yang membantu menemukan artikel, buku, tesis, dan karya ilmiah lainnya.
+
+Contoh: Mahasiswa mencari penelitian tentang pemasaran digital.
+
+37. Database Akademik
+
+Basis data yang menyediakan informasi publikasi ilmiah sesuai bidang atau cakupan tertentu.
+
+Contoh: PubMed untuk literatur biomedis dan ERIC untuk penelitian pendidikan.
+
+38. DOI (Digital Object Identifier)
+
+Pengidentifikasi digital persisten untuk objek digital, termasuk artikel ilmiah.
+
+Contoh: DOI digunakan untuk membantu pembaca menemukan artikel yang dirujuk.
+
+39. Metadata
+
+Informasi yang menjelaskan dokumen atau publikasi, seperti judul, penulis, tahun terbit, penerbit, dan kata kunci.
+
+Contoh: Metadata artikel membantu layanan pencarian mengidentifikasi publikasi.
+
+40. Plagiarisme
+
+Penggunaan kata-kata, gagasan, atau karya orang lain tanpa atribusi yang semestinya.
+
+Contoh: Menyalin paragraf dari artikel ilmiah tanpa mencantumkan sumber.
+
+E. Istilah Publikasi Digital dan Penyebaran Karya
+
+41. Publikasi Digital (Digital Publishing)
+
+Proses menerbitkan dan menyebarkan karya melalui media atau platform digital.
+
+Contoh: Menerbitkan buku elektronik atau artikel melalui situs web.
+
+42. Open Access
+
+Model publikasi yang memungkinkan pembaca mengakses karya ilmiah tanpa biaya akses langsung, sesuai kebijakan dan lisensi publikasi.
+
+Contoh: Artikel jurnal dapat dibaca secara gratis di situs penerbit.
+
+43. Submission
+
+Proses pengiriman naskah kepada jurnal atau penerbit untuk dipertimbangkan.
+
+Contoh: Penulis mengunggah artikel melalui sistem jurnal daring.
+
+44. Peer Review
+
+Proses penilaian naskah ilmiah oleh ahli di bidang terkait sebelum keputusan publikasi dibuat.
+
+Contoh: Reviewer mengevaluasi metode dan kontribusi ilmiah artikel.
+
+45. Indeksasi (Indexing)
+
+Pencatatan publikasi dalam basis data atau layanan indeks agar karya lebih mudah ditemukan.
+
+Contoh: Jurnal terdaftar pada layanan pengindeks yang sesuai dengan cakupan dan kriteria layanan tersebut.
+
+46. Repository Digital
+
+Sistem untuk menyimpan, mengelola, dan menyediakan akses terhadap dokumen digital.
+
+Contoh: Universitas menyimpan skripsi dan artikel ilmiah dalam repositori institusi.
+
+47. SEO (Search Engine Optimization)
+
+Upaya mengoptimalkan konten agar lebih mudah ditemukan melalui mesin pencari.
+
+Contoh: Penulis blog menggunakan judul yang jelas, kata kunci relevan, dan struktur heading yang baik.
+
+48. CMS (Content Management System)
+
+Perangkat lunak untuk membuat, mengelola, dan menerbitkan konten digital.
+
+Contoh: WordPress digunakan untuk mengelola artikel dan halaman blog.
+
+49. URL (Uniform Resource Locator)
+
+Alamat yang digunakan untuk menemukan sumber daya di internet.
+
+Contoh: URL mengarahkan pembaca ke halaman artikel atau buku digital.
+
+50. Digital Archiving
+
+Proses menyimpan dan memelihara dokumen digital agar tetap tersedia dan dapat ditemukan dalam jangka panjang.
+
+Contoh: Penulis menyimpan naskah final, gambar, dan berkas publikasi dalam beberapa salinan cadangan.
+
+F. Istilah AI dan Etika Penulisan Digital
+
+51. Artificial Intelligence (AI)
+
+Teknologi yang memungkinkan sistem komputer menjalankan tugas seperti memproses bahasa, mengenali pola, dan membantu menghasilkan konten.
+
+Contoh: AI membantu penulis mengembangkan ide awal sebuah artikel.
+
+52. Generative AI
+
+Jenis AI yang dapat menghasilkan konten baru, seperti teks, gambar, dan ringkasan berdasarkan instruksi pengguna.
+
+Contoh: AI membantu membuat alternatif judul dan kerangka buku.
+
+53. Prompt Engineering
+
+Proses menyusun dan memperbaiki instruksi agar AI memberikan respons yang sesuai dengan kebutuhan.
+
+Contoh: Meminta AI membuat kerangka artikel untuk mahasiswa dengan lima subbab dan contoh praktis.
+
+54. AI-Assisted Writing
+
+Penulisan yang memanfaatkan AI untuk membantu mengembangkan ide, menyunting bahasa, atau memperbaiki struktur tulisan.
+
+Contoh: Penulis menggunakan AI untuk memperoleh masukan, lalu memeriksa dan menyunting hasilnya sendiri.
+
+55. AI Hallucination
+
+Kondisi ketika AI menghasilkan informasi yang keliru atau tidak didukung bukti, tetapi disajikan seolah-olah benar.
+
+Contoh: AI memberikan referensi jurnal atau DOI yang ternyata tidak valid.
+
+56. Fact-Checking
+
+Proses memverifikasi kebenaran informasi dengan membandingkannya dengan bukti dan sumber tepercaya.
+
+Contoh: Memeriksa data statistik dan referensi yang diberikan AI sebelum menerbitkan artikel.
+
+57. Integritas Akademik (Academic Integrity)
+
+Prinsip kejujuran, tanggung jawab, transparansi, dan penghormatan terhadap sumber dalam kegiatan akademik.
+
+Contoh: Penulis tidak mengarang data dan mematuhi kebijakan penggunaan AI dari jurnal.
+
+58. Creative Commons
+
+Seperangkat lisensi yang memungkinkan pencipta memberikan izin penggunaan karya kepada orang lain berdasarkan ketentuan tertentu.
+
+Contoh: Penulis memeriksa ketentuan lisensi gambar sebelum menggunakannya dalam e-book.
+
+59. Atribusi (Attribution)
+
+Pemberian pengakuan kepada pencipta atau sumber karya yang digunakan.
+
+Contoh: Mencantumkan nama fotografer dan informasi lisensi sesuai persyaratan penggunaan gambar.
+
+60. Keamanan Data Digital (Digital Data Security)
+
+Upaya melindungi dokumen, informasi pribadi, dan data digital dari kehilangan, akses tidak sah, atau penyalahgunaan.
+
+Contoh: Penulis membatasi akses dokumen penelitian dan membuat salinan cadangan naskah.
+
+Cara Menerapkan Istilah-Istilah Ini dalam Penulisan
+
+Agar lebih mudah dipraktikkan, berikut alur sederhana dalam membuat buku atau jurnal ilmiah:
+
+Menentukan topik: Susun outline dan tetapkan tujuan penulisan.
+
+Mengumpulkan informasi: Cari sumber akademik dan evaluasi kredibilitasnya.
+
+Menyusun naskah: Tulis draft dengan struktur yang sesuai.
+
+Mengelola referensi: Gunakan Mendeley atau Zotero untuk mengatur sumber.
+
+Memeriksa isi: Lakukan editing, proofreading, dan fact-checking.
+
+Menjaga etika: Hindari plagiarisme dan patuhi aturan hak cipta serta penggunaan AI.
+
+Menerbitkan karya: Sesuaikan format dengan persyaratan penerbit, jurnal, atau platform blog.
+
+Menyebarkan publikasi: Gunakan metadata yang tepat, URL yang jelas, dan strategi SEO yang relevan.
+
+Kesimpulan
+
+Memahami istilah literasi digital dalam penulisan buku, jurnal ilmiah, dan publikasi digital merupakan bekal penting bagi mahasiswa, penulis, dan peneliti. Istilah seperti manuskrip, outline, sitasi, DOI, peer review, open access, SEO, dan CMS membantu menjelaskan proses pembuatan hingga penyebaran karya.
+
+Pemanfaatan AI dapat mendukung produktivitas penulisan, tetapi harus disertai pemeriksaan fakta, perlindungan hak cipta, dan integritas akademik. Penulis tetap bertanggung jawab atas kebenaran informasi dan kualitas karya yang diterbitkannya.
+
+Dengan memahami 60 istilah tersebut, diharapkan pembaca mampu mengembangkan keterampilan literasi digital dan menghasilkan karya yang lebih berkualitas, kredibel, serta bermanfaat bagi masyarakat.
